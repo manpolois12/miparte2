@@ -1,0 +1,2 @@
+rootProject.name='miparte2'
+include ':app'
